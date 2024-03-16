@@ -1,0 +1,13 @@
+{
+  "ID": "244a5a21-1ee7-4952-8d0d-6920f8d8c27c",
+  "ActionKeyword": "r:",
+  "IsGlobal": false,
+  "Name": "LocationRunner",
+  "Author": "RobertMueller2",
+  "Version": "0.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/RobertMueller2",
+  "IcoPathDark": "Images\\LocationRunnerDark.png",
+  "IcoPathLight": "Images\\LocationRunnerLight.png",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.LocationRunner.dll"
+}
