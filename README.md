@@ -1,3 +1,7 @@
+# Archive Notice
+
+Update 2025-06-27: This plugin is now archived. Time permitting, I'll look into a command palette plugin for the same purpose in the future.
+
 # LocationRunner plugin for PowerToys Run
 
 This is a plugin for [PowerToys Run](https://learn.microsoft.com/windows/powertoys/run). It reads Key=Directory pairs `%localappdata%\LocationRunner\Locations.conf`, then collects all `.exe` files from those directories, those can then be searched with the plugin prefix `r:` followed by `<Key> <Executable>` and launched. Perhaps the screenshot below illustrates it better. ;)
